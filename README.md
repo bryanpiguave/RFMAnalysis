@@ -22,6 +22,11 @@ RFM analysis helps businesses gain insights into their customer base, identify h
 ## Getting Started
 To use the code and resources in this repository, follow these steps:
 
+1. **Clone the Repository**: Clone this repository to your local machine using the following command:
+```
+git clone https://github.com/your-username/your-rfm-analysis.git
+```
+2. **Download the dataset**: For this project, I use the [Carbo-Loading](https://www.dunnhumby.com/source-files/) dataset from [dunnhumby](https://www.dunnhumby.com/)
 
 
 
