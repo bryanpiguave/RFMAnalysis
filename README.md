@@ -1,5 +1,8 @@
 # RFMAnalysis
 
+![RFM Analysis](https://hivemarketingcloud.com/media/zphnp5zi/rfm-analysis-blog-graphic-01.png?center=0.55126050420168071,0.58738261801222658&mode=crop&width=730&height=467&rnd=133039200171670000) 
+
+
 Welcome to the RFM Analysis Repository! This repository contains code, data, and resources related to the Recency, Frequency, and Monetary (RFM) analysis technique. RFM analysis is a powerful method for segmenting customers based on their buying behavior, allowing businesses to identify high-value customers and tailor their marketing strategies accordingly.
 
 
